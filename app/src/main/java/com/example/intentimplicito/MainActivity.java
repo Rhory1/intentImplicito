@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
 /*
     los explicitos se indica qu componente se quiere que realice la accion
     para que lanse una nueva pantalla, el sistema escoje cual es la mejor alternativa
-    para realizar la accion
-    
+    para realizar la accion-
+
 
 */
